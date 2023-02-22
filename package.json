@@ -2,7 +2,7 @@
   "name": "frontend",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://jackforez.github.io/dichoho-frontend",
+  "homepage": "https://jackforez.github.io/dichoho-frontend/",
   "type": "module",
   "scripts": {
     "dev": "vite",
